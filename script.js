@@ -13,7 +13,5 @@ window.team = team;
 window.team1 = team1;
 window.cap1 = cap1;
 const team=players
-console.log(team)
 const team1=players
-console.log(team1)
 const cap1=person
